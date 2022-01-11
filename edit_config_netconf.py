@@ -8,7 +8,7 @@ router_info = {
     "password": "C1sco12345"
 }
 
-config_template = open('C:\Users\Fakhri\Desktop\projects\Netconf_Python/ios_config.xml').read()
+config_template = open('ios_config.xml').read()
 
 netconf_config = config_template.format(interface_name="GigabitEthernet2", interface_desc="edit interface with ncclient")
 
