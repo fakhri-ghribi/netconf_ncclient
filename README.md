@@ -3,7 +3,7 @@ Access Details:
 
 Access the IOS XE on CSR Recommended Code Always On Sandbox directly using the following information:
 
-    CSR1000V Host: sandbox-iosxe-recomm-1.cisco.com
+    CSR1000V Host: ios-xe-mgmt-latest.cisco.com
         SSH Port: 22
         NETCONF Port: 830
         RESTCONF Ports: 443 (HTTPS) 
